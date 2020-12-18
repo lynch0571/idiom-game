@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: idiom-game
+server:
+  port: 18080
